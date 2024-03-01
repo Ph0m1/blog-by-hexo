@@ -8,12 +8,12 @@ menu:
 banner: https://qiniu.sukoshi.xyz/src/images/68686407_p0.jpg
 
 # 站点通知信息
-notice: flex-block主题部分重构，详情查看https://github.com/miiiku/flex-block
+notice: 
 
 # 作者信息
 author:
-  name: Sukoshi
-  avatar: https://s.gravatar.com/avatar/2d6b803eea37de0257620d5fabee7e64?s=200&r=g&d=retro
+  name: Ph0m
+  avatar: https://pic.imgdb.cn/item/65e1df0c9f345e8d03bcdd6a.png
   description: 贵在坚持
 
 toc:
@@ -98,5 +98,5 @@ social_icon:
     ins     :
     zhihu   :
     weibo   : 
-    github  : https://github.com/miiiku/
-    twitter : https://twitter.com/guanquanhong
+    github  : https://github.com/Ph0m1/
+    twitter : 
