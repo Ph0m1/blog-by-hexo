@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
+title: "Ph0m's space"
+subtitle: '邮砖理工男孩不会遇到爱犟嘴女生'
 description: ''
 keywords:
-author: John Doe
+author: ph0m
 language: en
 timezone: ''
 
@@ -96,7 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: flexblock
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
