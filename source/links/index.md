@@ -12,7 +12,7 @@ date: 2024-03-01 22:48:26
         body {
             font-family: Arial, sans-serif;
             margin: 0;
-            padding: 20px;
+            padding: 0;
         }
         h1 {
             text-align: center;
