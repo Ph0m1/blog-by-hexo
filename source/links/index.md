@@ -51,7 +51,7 @@ date: 2024-03-01 22:48:26
             <a href="https://blog.zhilu.cyou" target="_blank">zhilu</a>
         </div>
         <div class="friend">
-            <img src="friend2.jpg" alt="g0ubu1li">
+            <img src="https://q1.qlogo.cn/g?b=qq&nk=1738327323&s=3">
             <a href="https://blog.goubuli.online" target="_blank">g0ubu1i</a>
         </div>
         <!-- Add more friend links as needed -->

@@ -88,7 +88,7 @@ baidu_analytics:
 # 腾讯分析
 tencent_analytics: 
 # 站点ico
-favicon: /favicon.ico
+favicon: /head.ico
 
 
 # Social Icon
