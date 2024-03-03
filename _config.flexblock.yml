@@ -1,8 +1,11 @@
 # Header
 menu:
   首页: /
+  分类: /pigeonhole
   友链: /links
   关于: /about
+
+
 
 # 主页banner图
 banner: https://qiniu.sukoshi.xyz/src/images/68686407_p0.jpg
@@ -73,7 +76,7 @@ mathjax:
 # polyfill 提供老版浏览器对新语法的支持
 # website: https://polyfill.io/v3/ 
 polyfill:
-  enable: false
+  enable: true
 
 
 # 国内备案信息
