@@ -29,7 +29,7 @@ date: 2024-03-01 22:47:40
       <div class="title" style="color: #001f3f;">初次使用 hexo-theme-flexblock & github & netlify 搭建我的个人博客</div>
     </li>
     <li class="timeline-item">
-      <div class="time">2024-03-02</div>
+      <div class="time">2024-03-03</div>
       <div class="title" style="color: #001f3f;">
         解析到blog.phom.space
           <p>在搭建个人博客的过程中，成功解析了域名blog.phom.space，这是我的个人博客的主要网址。</p>
