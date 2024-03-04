@@ -10,7 +10,7 @@ title: 如何使用Hexo部署个人博客
 1. 工具:
 
     - npm(Node.js)
-    - netlify
+    - netlify (也可以用vercel)
     - github
     - git
 
@@ -107,6 +107,9 @@ title: 如何使用Hexo部署个人博客
 
    后续要上传博客，只需将 markdown 文件放入`./source/_posts/` 目录下，并推送至github即可自行部署
 
+   ***[vercel](https://vercel.com/)*** 操作基本一致，只需选择对应的github仓库就行
+   
+
 4. 进一步优化博客页面
 
      这里需要自行学习一些前端知识
@@ -123,6 +126,10 @@ title: 如何使用Hexo部署个人博客
       hexo new page <目录> #新增页面
 
       ```
+
+      **关于草稿** 在source目录下创建名为 `_drafts` 的目录，建议将草稿文件放在该目录下进行编辑；
+
+                    使用 hexo s --drafts 部署即可预览   
 
    2. 配置
 
