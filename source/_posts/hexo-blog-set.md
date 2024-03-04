@@ -3,7 +3,7 @@ title: 如何使用Hexo部署个人博客
 ---
 
    本文将详细介绍如何使用Hexo进行博客部署
-   [Hexo官网](hexo.io)
+   [Hexo官网](https://hexo.io/)
 
 ## 详细步骤
 
