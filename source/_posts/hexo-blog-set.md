@@ -12,6 +12,7 @@ title: 如何使用Hexo部署个人博客
     - npm(Node.js)
     - netlify
     - github
+    - git
 
 2. npm的安装
    - Archlinux用户：
@@ -26,7 +27,14 @@ title: 如何使用Hexo部署个人博客
    sudo apt-get install npm
    ```
 
-3. hexo的安装及其初始化
+   - Windows用户
+     
+     请访问[Node.js](https://nodejs.org/)自行下载
+     
+     [Git官网](https://git-scm.com/)
+
+
+1. hexo的安装及其初始化
 
    选择一个空的文件夹（存储博客文件）这里用 `~/blog` 来作为博客存储路径
 
@@ -39,7 +47,7 @@ title: 如何使用Hexo部署个人博客
 
     ！！*注意* ！！ `hexo init` 必须在一个空的文件夹内
 
-4. [Github](https://github.com/) 仓库的建立
+2. [Github](https://github.com/) 仓库的建立
 
    登陆Github
    新建一个仓库
@@ -75,7 +83,7 @@ title: 如何使用Hexo部署个人博客
    git push -u origin main
    ```
 
-5. 使用 [netlify](https://app.netlify.com/) 托管博客
+3. 使用 [netlify](https://app.netlify.com/) 托管博客
 
    选择 log in 并使用 Github 登陆 netlify
 
@@ -99,7 +107,7 @@ title: 如何使用Hexo部署个人博客
 
    后续要上传博客，只需将 markdown 文件放入`./source/_posts/` 目录下，并推送至github即可自行部署
 
-6. 进一步优化博客页面
+4. 进一步优化博客页面
 
      这里需要自行学习一些前端知识
 
@@ -186,7 +194,7 @@ title: 如何使用Hexo部署个人博客
 
       其余主题步骤类似，详情请参考各主题文档进行修改配置
 
-7. 自定义域名
+5. 自定义域名
    
    请在腾讯云等网站注册自己的域名，并解析到netlify生成的链接上
 
