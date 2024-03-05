@@ -85,7 +85,9 @@ title: 如何使用Hexo部署个人博客
 
 3. 使用 [netlify](https://app.netlify.com/) 托管博客
 
-   选择 log in 并使用 Github 登陆 netlify
+   <font color=Red size=3.5>***netlify必须上传身份证照片进行实名认证，否则账户会被封禁***</font>
+
+   选择 sign in 并使用 Github 登陆 netlify
 
    在该页面的侧边栏中选择 **Sites** 随后选择 `Add new site`
 
