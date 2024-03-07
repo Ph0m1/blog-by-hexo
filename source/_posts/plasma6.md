@@ -16,4 +16,6 @@ date: 2024-03-0 7
       pacman -S <显卡驱动>
 
       systemctl enable sddm
+
+      reboot
       ```
