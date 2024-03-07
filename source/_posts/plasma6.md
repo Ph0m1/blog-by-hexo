@@ -1,7 +1,6 @@
 ---
 title: 关于plasma 6 更新后出现的问题
 date: 2024-03-07
-tags: arch
 tags: linux
 ---
 
