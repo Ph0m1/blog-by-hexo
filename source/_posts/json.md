@@ -167,12 +167,12 @@ date: 2024-03-30 18:27:30
        if (m_str.compare(m_idx, 4, "true") == 0)
        {
            m_idx += 4;
-           return "true";
+           return true;
        }
        if (m_str.compare(m_idx, 5, "false") == 0)
        {
            m_idx += 5;
-           return "false";
+           return false;
        }
        throw std::logic_error("parse bool error");
    }
