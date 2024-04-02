@@ -41,6 +41,14 @@ date: 2024-03-01 22:48:26
         <img src="https://q1.qlogo.cn/g?b=qq&nk=1738327323&s=3">
         <a href="https://blog.goubuli.online" target="_blank">g0ubu1i</a>
     </div>
+    <div class="friend">
+        <img src="https://q1.qlogo.cn/g?b=qq&nk=1305969480&s=3">
+        <a href="https://future.thisis.host" target="_blank">Future</a>
+    </div>
+    <div class="friend">
+        <img src="https://q1.qlogo.cn/g?b=qq&nk=2098600899&s=3">
+        <a href="https://yunjianworld.fun" target="_blank">云间的小小世界</a>
+    </div>
     <!-- Add more friend links as needed -->
 </div>
 
