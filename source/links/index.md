@@ -47,7 +47,7 @@ date: 2024-03-01 22:48:26
     </div>
     <div class="friend">
         <img src="https://q1.qlogo.cn/g?b=qq&nk=2098600899&s=3">
-        <a href="https://yunjianworld.fun" target="_blank">云间的小小世界</a>
+        <a href="https://yunjianworld.fun" target="_blank">云间世界</a>
     </div>
     <!-- Add more friend links as needed -->
 </div>
