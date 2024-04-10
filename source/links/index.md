@@ -34,24 +34,24 @@ date: 2024-03-01 22:48:26
 <h1>My Friends' Links</h1>
 <div class="friends-container">
     <div class="friend">
-        <img src="https://cravatar.cn/avatar/13aa912754e6bb5e671f3e6654e4712d?s=120">
-        <a href="https://blog.zhilu.cyou" target="_blank">zhilu</a>
+        <a href="https://blog.zhilu.cyou" target="_blank">
+        <img src="https://cravatar.cn/avatar/13aa912754e6bb5e671f3e6654e4712d?s=120">zhilu</a>
     </div>
     <div class="friend">
-        <img src="https://q1.qlogo.cn/g?b=qq&nk=1738327323&s=3">
-        <a href="https://blog.goubuli.online" target="_blank">g0ubu1i</a>
+        <a href="https://blog.goubuli.online" target="_blank">
+        <img src="https://q1.qlogo.cn/g?b=qq&nk=1738327323&s=3">g0ubu1i</a>
     </div>
     <div class="friend">
-        <img src="https://q1.qlogo.cn/g?b=qq&nk=1305969480&s=3">
-        <a href="https://future.thisis.host" target="_blank">Future</a>
+        <a href="https://future.thisis.host" target="_blank">
+        <img src="https://q1.qlogo.cn/g?b=qq&nk=1305969480&s=3" >Future</a>
     </div>
     <div class="friend">
-        <img src="https://q1.qlogo.cn/g?b=qq&nk=2098600899&s=3">
-        <a href="https://yunjianworld.fun" target="_blank">云间世界</a>
+        <a href="https://yunjianworld.fun" target="_blank">
+        <img src="https://q1.qlogo.cn/g?b=qq&nk=2098600899&s=3">云间世界</a>
     </div>
     <div class="friend">
-        <img src="https://q1.qlogo.cn/g?b=qq&nk=1179188517&s=3">
-        <a href="https://tiny-sky.github.io/" target="_blank">Tiny_Sky</a>
+        <a href="https://tiny-sky.github.io/" target="_blank">
+        <img src="https://q1.qlogo.cn/g?b=qq&nk=1179188517&s=3">Tiny_Sky</a>
     </div>
     <!-- Add more friend links as needed -->
 </div>
