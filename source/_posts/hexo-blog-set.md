@@ -1,6 +1,8 @@
 ---
 title: 如何使用Hexo部署个人博客
 date: 2024-03-04
+updated: 2024-03-04
+categories: 技术
 tags: 技巧
 ---
 

@@ -1,6 +1,8 @@
 ---
 title: 系统编程——信号处理
 date: 2024-03-06
+updated: 2024-03-06
+categories: Linux
 tags: Linux
 ---
 
