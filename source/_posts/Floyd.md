@@ -5,7 +5,7 @@ updated: 2024-03-01 18:27:30
 tags: 
     - 算法
     - c++
-categories: 算法
+categories: 数据结构与算法
 ---
 
 

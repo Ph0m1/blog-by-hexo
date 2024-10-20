@@ -2,7 +2,7 @@
 title: 栈
 date: 2024-10-20
 updated: 2024-10-20
-categories: 数据结构
+categories: 数据结构与算法
 tags: 数据结构
 ---
 
