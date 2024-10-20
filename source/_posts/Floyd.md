@@ -24,11 +24,11 @@ categories: 算法
 
 ## 时间复杂度
 
- O(n^3) 其中 n 表示节点对数量。
+O(n^3) 其中 n 表示节点对数量。
 
 ## 实例
 
- [leetcode 3015.按距离统计房屋对数目I](https://leetcode.cn/problems/count-the-number-of-houses-at-a-certain-distance-i/description/)
+[leetcode 3015.按距离统计房屋对数目I](https://leetcode.cn/problems/count-the-number-of-houses-at-a-certain-distance-i/description/)
 
     给你三个 正整数 n 、x 和 y 。
 

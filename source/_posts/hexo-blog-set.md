@@ -12,57 +12,41 @@ tags: 技巧
 ## 详细步骤
 
 1. 工具:
-
-    - npm(Node.js)
-    - netlify (也可以用vercel)
-    - github
-    - git
-
+   - npm(Node.js)
+   - netlify (也可以用vercel)
+   - github
+   - git
 2. npm的安装
    - Archlinux用户：
-
    ```sh
    sudo yay -S npm
    ```
-
    - ubuntu用户
-
    ```sh
    sudo apt-get install npm
    ```
-
    - Windows用户
-     
      请访问[Node.js](https://nodejs.org/)自行下载
-     
      [Git官网](https://git-scm.com/)
-
-
-1. hexo的安装及其初始化
-
+3. hexo的安装及其初始化
    选择一个空的文件夹（存储博客文件）这里用 `~/blog` 来作为博客存储路径
-
    ```sh
    sudo npm install -g hexo-cli #安装hexo组件
    cd ~/blog
    hexo init #初始化hexo程序
    npm install #自动补全组件
    ```
-
-    ！！*注意* ！！ `hexo init` 必须在一个空的文件夹内
-
-2. [Github](https://github.com/) 仓库的建立
-
+   ！！*注意* ！！ `hexo init` 必须在一个空的文件夹内
+4. [Github](https://github.com/) 仓库的建立
    登陆Github
    新建一个仓库
    将该仓库链接到本地 `~/blog` 目录下
-
    ```sh
    cd ~/blog
    git init #初始化git仓库
    ```
-
    查看 ./.gitignore 文件是否忽略
+   ```
    .DS_Store
    Thumbs.db
    db.json
@@ -71,10 +55,9 @@ tags: 技巧
    public/
    .deploy*/
    _multiconfig.yml
+   ```
    **（该文件一般自行生成，无需更改）**
-
    将本地文件上传Github仓库
-
    ```sh
    git add .
 
@@ -86,10 +69,9 @@ tags: 技巧
 
    git push -u origin main
    ```
+5. 使用 [netlify](https://app.netlify.com/) 托管博客
 
-3. 使用 [netlify](https://app.netlify.com/) 托管博客
-
-   <font color=Red size=3.5>***netlify必须上传身份证照片进行实名认证，否则账户会被封禁***</font>
+   <font color="red" size="3.5">***netlify必须上传身份证照片进行实名认证，否则账户会被封禁***</font>
 
    选择 sign in 并使用 Github 登陆 netlify
 
