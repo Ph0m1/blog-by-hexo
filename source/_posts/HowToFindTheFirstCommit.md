@@ -1,5 +1,5 @@
 ---
-title: How to find the first commit
+title: 快速找到项目的第一个commit记录
 date: 2020-08-26 11:00:00
 tags: 
 - tips
