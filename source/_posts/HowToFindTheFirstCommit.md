@@ -1,6 +1,6 @@
 ---
 title: 快速找到项目的第一个commit记录
-date: 2020-08-26 11:00:00
+date: 2025-03-05 20:00:00
 tags: 
 - tips
 - git
@@ -25,11 +25,11 @@ git show <commit_id>
 ```
 3. 如果父提交记录为空，则说明这是第一个提交记录
 
-## 总结
+## 如何直接在github页面找到第一个commit
 通过以上步骤，我们可以找到项目的第一个提交记录,但是这个方法需要先将项目克隆到本地，如果项目比较大，可能会比较耗时。碰巧我在github上浏览commit记录时发现了如下信息:(这里以dubbo-kubernetes为例)
 
 当进入commits页面时，会看到如下信息：
-![image](/source/_doc/htft1.png)
+![image](https://github.com/Ph0m1/blog-by-hexo/blob/main/source/_doc/htft1.png)
 
 在本页面只能向前或向后一页跳转，无法直接跳转到第一个提交记录，于是我又尝试了其他方法，发现可以通过如下方法直接跳转到第一个提交记录：
 
@@ -45,4 +45,4 @@ git show <commit_id>
 
 `https://github.com/apache/dubbo-kubernetes/commits/master/?after=cbf444c0fc867c55af8903aaced1b350c2f0d732+2027`
 
-![image](/source/_doc/htft2.png)
+![image](https://github.com/Ph0m1/blog-by-hexo/blob/main/source/_doc/htft2.png)
